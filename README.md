@@ -43,3 +43,5 @@ Then configure the rules you want to use under the rules section.
 ## Current Rules
 
 `function-padding` Require function to have padding at the top and bottom of the blocks, [Documentation](https://github.com/0x4447/0x4447-Plugin-ESLint-Function-Padding/blob/master/docs/rules/function-padding.md)
+
+`comment-blocks` Requires `n` amount of lines per comment block, `n` can be configured to whatever amount is given by the user
