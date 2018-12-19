@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "0x4447/function-padding": "error"
+        "0x4447/<rule-name>": "error"
     }
 }
 ```
