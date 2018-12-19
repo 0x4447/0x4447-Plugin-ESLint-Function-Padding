@@ -11,9 +11,9 @@ Examples of **incorrect** code for this rule:
 If the amount of comments per comment block is set to `3`
 ```js
 //
-//
+// 
 // This will fail
-//
+// This comment block has 4 lines and the rule states 3
 ```
 
 Examples of **correct** code for this rule:
