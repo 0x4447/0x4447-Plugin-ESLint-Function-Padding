@@ -8,28 +8,29 @@ Please describe the origin of the rule here.
 This rule aims to...
 
 Examples of **incorrect** code for this rule:
-
+If the amount of comments per comment block is set to `3`
 ```js
-
-// fill me in
-
+//
+//
+// This will fail
+//
 ```
 
 Examples of **correct** code for this rule:
-
+If the amount of comments per comment block is set to `3`
 ```js
-
-// fill me in
-
+//
+// This will Pass
+//
 ```
 
 ### Options
 
-If there are any options, describe them here. Otherwise, delete this section.
+`"0x4447": ["error", "<numbers-of-lines>"`
 
 ## When Not To Use It
 
-Give a short description of when it would be appropriate to turn off this rule.
+If you do not care how many lines a comment block uses then this rule is not necessary to use.
 
 ## Further Reading
 
