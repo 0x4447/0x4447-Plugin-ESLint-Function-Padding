@@ -5,7 +5,7 @@ Please describe the origin of the rule here.
 
 ## Rule Details
 
-This rule aims to...
+This rule aims to give the the end user a way to keep all comments looking similar and not over complicated.
 
 Examples of **incorrect** code for this rule:
 If the amount of comments per comment block is set to `3`
