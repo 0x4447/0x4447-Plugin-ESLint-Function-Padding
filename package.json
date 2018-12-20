@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-0x4447",
-  "version": "1.0.0",
+  "version": "1.3.1",
   "description": "Custom Eslint rules for 0x4447 LLC",
   "keywords": [
     "eslint",

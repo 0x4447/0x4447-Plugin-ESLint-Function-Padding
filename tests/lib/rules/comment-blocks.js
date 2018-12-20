@@ -20,10 +20,7 @@ var rule = require("../../../lib/rules/comment-blocks"),
 var ruleTester = new RuleTester();
 ruleTester.run("comment-blocks", rule, {
 
-    valid: [
-
-        // give me some code that won't trigger a warning
-    ],
+    valid: ["// 1. Hello\n // 2. Hello\n // 3. Hello"],
 
     invalid: [
         {
