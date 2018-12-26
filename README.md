@@ -7,13 +7,13 @@ Custom Eslint rules for 0x4447 LLC
 You'll first need to install [ESLint](http://eslint.org):
 
 ```
-$ npm i eslint --save-dev
+] npm i eslint --save-dev
 ```
 
 Next, install `eslint-plugin-0x4447`:
 
 ```
-$ npm install eslint-plugin-0x4447 --save-dev
+] npm install eslint-plugin-0x4447 --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-0x4447` globally.
@@ -40,6 +40,7 @@ Then configure the rules you want to use under the rules section.
     }
 }
 ```
+
 ## Current Rules
 
 `function-padding` Require function to have padding at the top and bottom of the blocks, [Documentation](https://github.com/0x4447/0x4447-Plugin-ESLint-Function-Padding/blob/master/docs/rules/function-padding.md)
