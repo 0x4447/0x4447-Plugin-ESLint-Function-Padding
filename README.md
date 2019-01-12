@@ -10,13 +10,13 @@ You'll first need to install [ESLint](http://eslint.org):
 ] npm i eslint --save-dev
 ```
 
-Next, install `@0x4447/eslint-plugin-function-padding`:
+Next, install the plug-in itself:
 
 ```
-] npm install @0x4447/eslint-plugin-function-padding --save-dev
+] npm install @0x4447/eslint-plugin-0x4447 --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `@0x4447/eslint-plugin-function-padding` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `@0x4447/eslint-plugin-0x4447` globally.
 
 # Current Rules
 
