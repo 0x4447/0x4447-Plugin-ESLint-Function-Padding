@@ -2,25 +2,40 @@
   "name": "@0x4447/eslint-plugin-0x4447",
   "version": "1.0.0",
   "description": "Custom Eslint rules for 0x4447 LLC",
-  "keywords": [
-    "eslint",
-    "eslintplugin",
-    "eslint-plugin"
-  ],
-  "author": "Kevin",
+  "homepage": "https://0x4447.com/toolbox",
   "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "mocha tests --recursive"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x4447/0x4447-plugin-eslint"
+  },
+  "author": {
+    "name": "0x4447",
+    "email": "hello@0x4447.email",
+    "url": "https://0x4447.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x4447/0x4447-plugin-eslint/issues"
+  },
+  "keywords": [
+    "0x4447",
+    "nodejs",
+    "eslint",
+    "function-padding"
+    "eslintplugin",
+    "eslint-plugin"
+  ],
   "dependencies": {
     "requireindex": "~1.1.0"
   },
   "devDependencies": {
     "eslint": "~3.9.1",
     "mocha": "^3.1.2"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "license": "ISC"
+  }
 }
