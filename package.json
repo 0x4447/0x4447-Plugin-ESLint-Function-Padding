@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-0x4447",
+  "name": "@0x4447/eslint-plugin-0x4447",
   "version": "1.0.0",
   "description": "Custom Eslint rules for 0x4447 LLC",
   "keywords": [
