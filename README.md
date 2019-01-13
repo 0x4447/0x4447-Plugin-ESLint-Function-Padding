@@ -1,13 +1,13 @@
 # 0x4447 Eslint Plugin for Function Padding
 
-Custom Eslint rules for 0x4447 LLC.
+A set of custom Eslint rules created by 0x4447 LLC to maximize code clarity, so you can focus on solving the problem, and not mentally parsing the code.
 
 # Installation
 
 You'll first need to install [ESLint](http://eslint.org):
 
 ```
-] npm i eslint --save-dev
+] npm install eslint --save-dev
 ```
 
 Next, install the plug-in itself:
@@ -20,7 +20,7 @@ Next, install the plug-in itself:
 
 # Current Rules
 
-- **function-padding**: Require function to have padding at the top and bottom of the blocks, [Documentation](https://github.com/0x4447/0x4447-plugin-eslint/blob/development/docs/rules/function-padding.md)
+- **function-padding**: Require function to have padding at the top and bottom of the blocks: [Documentation](https://github.com/0x4447/0x4447-plugin-eslint/blob/development/docs/rules/function-padding.md).
 
 # Usage
 
