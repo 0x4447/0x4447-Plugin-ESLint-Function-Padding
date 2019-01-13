@@ -28,7 +28,7 @@
     "0x4447",
     "nodejs",
     "eslint",
-    "function-padding"
+    "function-padding",
     "eslintplugin",
     "eslint-plugin"
   ],
