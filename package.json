@@ -8,6 +8,7 @@
     "access": "public"
   },
   "scripts": {
+    "build": "npm pack && npm install -g 0x4447-eslint-plugin-0x4447-* && rm 0x4447-eslint-plugin-0x4447-*",
     "test": "mocha tests --recursive"
   },
   "repository": {
