@@ -1,24 +1,18 @@
-/**
- * @fileoverview Padding for functions
- * @author Kevin
- */
-"use strict";
+//
+//  Requirements
+//
+let rule = require("../../../lib/rules/function-padding");
+let rule_tester = require("eslint").RuleTester;
 
-//------------------------------------------------------------------------------
-// Requirements
-//------------------------------------------------------------------------------
+//
+//  Load RuleTester
+//
+let rule_tester = new rule_tester();
 
-var rule = require("../../../lib/rules/function-padding"),
-
-    RuleTester = require("eslint").RuleTester;
-
-
-//------------------------------------------------------------------------------
-// Tests
-//------------------------------------------------------------------------------
-
-var ruleTester = new RuleTester();
-ruleTester.run("function-padding", rule, {
+//
+//  Run first test.
+//
+rule_tester.run("function-padding", rule, {
 
     valid: [
 
