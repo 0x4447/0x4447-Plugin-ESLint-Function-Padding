@@ -1,6 +1,6 @@
 {
   "name": "@0x4447/eslint-plugin-0x4447",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom Eslint rules for 0x4447 LLC",
   "homepage": "https://0x4447.com/toolbox",
   "main": "lib/index.js",
