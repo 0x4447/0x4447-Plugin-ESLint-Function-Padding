@@ -1,6 +1,6 @@
 # Padding for functions (function-padding)
 
-After over a decade of coding and working with other developers, I realized that the issue with the so called "hard" part of coding is not programming itself, it is the mentally strain that we put on ourself to make to code look cooler, while sacrificing clarity and by making our brain perform unnecessary extra work, energy that could be used to find out the problem in the code.
+After over a decade of coding and working with other developers, we realized that the issue with the so called "hard" part of coding is not programming itself, it's the mental strain that we put on ourself by making code look cooler, while sacrificing clarity and making our brain perform unnecessary extra work, energy that could be used to find out the problem in the code.
 
 ## Rule Details
 
